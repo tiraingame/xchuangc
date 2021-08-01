@@ -2,7 +2,7 @@
 
 ## 新创
 
-![xchuangc](https://xchuangc.github.io/favicon.png)
+![xchuangc](https://xchuangc.github.io/favicon.ico)
 
 `新创` `Xchuang`
 
