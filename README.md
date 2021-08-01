@@ -1,16 +1,22 @@
-### Hi there 👋
+# XchuangCompany
 
-<!--
-**xchuangc/xchuangc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 新创
 
-Here are some ideas to get you started:
+![xchuangc](https://xchuangc.github.io/favicon.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`新创` `Xchuang`
+
+### **新创**
+
+* 编程语言
+  * HTML
+  * Python
+  * C++
+  * VBS
+  * UE4
+  
+  
+已完成的目标
+- [x] 首页
+- [x] CSS
+- [ ] 附加网页
